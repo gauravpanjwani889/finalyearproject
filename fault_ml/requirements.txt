@@ -1,0 +1,10 @@
+numpy
+scipy
+scikit-learn
+joblib
+h5py
+matplotlib
+fastapi
+pydantic
+pytest
+# MATLAB machine pe (sirf generate_dataset.py ke liye):  matlabengine==25.1

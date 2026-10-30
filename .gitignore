@@ -4,3 +4,5 @@ __pycache__/
 fault_ml/data/
 *.mat
 .pytest_cache/
+model_dump.txt
+code_bundle.txt
